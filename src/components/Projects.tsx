@@ -8,7 +8,7 @@ const projects = [
     title: 'Drum Machine',
     description: 'A full-featured online drum machine built with React and Bootstrap',
     image: drum,
-    tech: ['React', 'Node.js', 'MongoDB', 'Bootstrap'],
+    tech: ['JavaScript', 'HTML', 'Bootstrap'],
     github: 'https://github.com/shaayesteh/drum-machine',
     live: 'https://drum-machine-sha.netlify.app/'
   },
